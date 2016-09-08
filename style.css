@@ -46,6 +46,10 @@ ul {
     padding-top: 25px;
     text-align: center;
 }
+/* CURSEUR SUR ICONES */
+.pointer{
+  cursor: pointer;
+}
 /* BLOCK 3 - LOGICIELS / FRAMEWORK */
 .h4block3 {
     text-align: center;
@@ -54,13 +58,13 @@ ul {
 .h4block3i {
     text-align: center;
     text-decoration: underline;
-    padding-top: 80px;
+    padding-top: 15px;
 }
 .centerblock3 {
     text-align: center;
+    padding: 15px;
 }
 .line {
-    padding-bottom: 15px;
     border-bottom: 1px solid black;
 }
 .uncolored {
