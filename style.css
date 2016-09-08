@@ -56,6 +56,7 @@ ul {
     text-decoration: underline;
 }
 .h4block3i {
+    margin: 0px;
     text-align: center;
     text-decoration: underline;
     padding-top: 15px;
@@ -122,4 +123,7 @@ a.nounderline:link {
 .icongift {
   font-size: 25px;
   padding: 5px 15px 5px 4px;
+}
+.e2n {
+    padding-left: 0px;
 }
