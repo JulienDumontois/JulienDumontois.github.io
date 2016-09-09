@@ -124,6 +124,10 @@ a.nounderline:link {
   font-size: 25px;
   padding: 5px 15px 5px 4px;
 }
+.iconlinked{
+    font-size: 25px;
+  padding: 5px 15px 5px 4px;  
+}
 /* REGLAGES */
 .e2n {
     padding-left: 0px;
