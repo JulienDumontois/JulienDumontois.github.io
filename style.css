@@ -83,19 +83,16 @@ a.nounderline:link {
 }
 /* DISPLAY NONE */
 #texte {
-    display: none;
+
     text-align: left;
 }
 #texte1 {
-    display: none;
     text-align: left;
 }
 #texte2 {
-    display: none;
     text-align: left;
 }
 #texte3 {
-    display: none;
     text-align: left;
 }
 /* FIN DISPLAY NONE */
@@ -125,8 +122,8 @@ a.nounderline:link {
   padding: 5px 15px 5px 4px;
 }
 .iconlinked{
-    font-size: 25px;
-  padding: 5px 15px 5px 4px;  
+    font-size: 24px;
+  padding: 5px 14px 5px 6px;  
 }
 /* REGLAGES */
 .e2n {
